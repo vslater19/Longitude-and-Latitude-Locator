@@ -1,14 +1,6 @@
 <!DOCTYPE html>
 <!-- Made by: Nikolas and Victoria
 
-    Participation Matrix:
-
-                              Nik's Contribution | Victoria's Contribution
-                              -----------------------------------------
-           Nik's Assessment:  |       50%        |         50%
-                              -----------------------------------------
-      Victoria's Assessment:  |       50%        |         50%
-      -->
 <html>
 <head> <link rel="stylesheet" type="text/css" href="hw6.css">
     
